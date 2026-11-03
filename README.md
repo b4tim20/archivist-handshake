@@ -36,3 +36,7 @@ Python 3.10+. The dossier generator additionally needs `tectonic` (or any LaTeX 
 
 The tooling is general. The ledger, inbox, notes and memory directories from the live deployment are not
 included — they contain the private record of that collaboration.
+
+## License
+
+MIT — see `LICENSE`.
